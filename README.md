@@ -1,2 +1,3 @@
 # review
-Guides and checklists on reviews (code review, website, security, design...)
+
+Guides and checklists for reviewing things (code, website, security, design...)
