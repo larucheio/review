@@ -17,3 +17,7 @@
 ## Platform specifics
 
 -   [ ] [Wordpress](wordpress/readme.md)
+
+## Other checklists
+
+-   [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
