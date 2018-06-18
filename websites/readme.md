@@ -12,6 +12,7 @@
 -   [ ] Reading software friendly (like VoiceOver)
 -   [ ] A11Y compliant (https://a11yproject.com/)
 -   [ ] Correct headings hierarchy (https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
+-   [ ] GDPR & other law compliant
 
 
 ## Platform specifics
