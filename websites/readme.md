@@ -14,6 +14,10 @@
 -   [ ] Correct headings hierarchy (https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
 -   [ ] GDPR & other law compliant
 
+## Images
+
+-   [ ] Images are optimized (size, weight, formats)
+-   [ ] Images have proper alt tags
 
 ## Platform specifics
 
