@@ -14,6 +14,12 @@
 -   [ ] Correct headings hierarchy (https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
 -   [ ] GDPR & other law compliant
 
+## Language
+
+-   [ ] The html lang attribute is set with correct country and region code
+-   [ ] If the page has some translation, indicate proper link to it (with `rel` & `hreflang`)
+-   [ ] The text direciton is properly set (`ltr`, `rtl`...)
+
 ## Images
 
 -   [ ] Images are optimized (size, weight, formats)
