@@ -12,13 +12,13 @@
 -   [ ] Reading software friendly (like VoiceOver)
 -   [ ] A11Y compliant (https://a11yproject.com/)
 -   [ ] Correct headings hierarchy (https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
--   [ ] GDPR & other law compliant
+-   [ ] GDPR & other regional law compliant
 
 ## Language
 
 -   [ ] The html lang attribute is set with correct country and region code
 -   [ ] If the page has some translation, indicate proper link to it (with `rel` & `hreflang`)
--   [ ] The text direciton is properly set (`ltr`, `rtl`...)
+-   [ ] The text direction is properly set (`ltr`, `rtl`...)
 
 ## Images
 
