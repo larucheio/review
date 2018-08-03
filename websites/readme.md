@@ -55,4 +55,5 @@
 
 ## Other checklists
 
+-   [The Front-End Checklist](https://frontendchecklist.io/)
 -   [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
