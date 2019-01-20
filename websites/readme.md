@@ -12,7 +12,7 @@
 -   [ ] Sitemap
 -   [ ] Got correct page titles and meta description
 -   [ ] Register a service Worker
--   [ ] Perform well on Lighthouse audit
+-   [ ] Perform well on [audits](#audits)
 -   [ ] Daltonism-friendly (https://michelf.ca/projects/sim-daltonism/)
 -   [ ] Reading software friendly (like VoiceOver)
 -   [ ] A11Y compliant (https://a11yproject.com/)
