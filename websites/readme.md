@@ -26,7 +26,7 @@
 -   [ ] Got a `<meta name="description" content="foo" />`
 -   [ ] Got proper [OpenGraph](http://ogp.me/) (generic and specialized for specific social networks)
 
-## links
+## Links
 
 -   [ ] No broken links
 -   [ ] Verify that your link does not force a redirection due to a trailing slash (present or not)
@@ -48,6 +48,10 @@
 -   [ ] Is lightweight
 -   [ ] Load fast
 -   [ ] Smooth animations/transitions
+
+## Audits
+
+-   [ ] [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
 ## Platform specifics
 
